@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm Mayank Joshi, a third-year B.Tech student at IIT Delhi, passionate about Machine Learning, Data Science, and Finance. I love working with mathematics and algorithms and enjoy solving complex problems using data-driven approaches.<br><br>I have experience in Python, Java, SQL, and frameworks like PyTorch and Sklearn. I’ve worked on various ML projects, including Kaggle competitions and know Transformers and Neural Networks.<br><br>Beyond academics, I enjoy playing the guitar and flute, participating in cultural events, and following sports. Always eager to learn and collaborate, I’m excited about opportunities in AI, finance and tech-driven innovations!<br><br>
+I'm Mayank Joshi, B.Tech student at IIT Delhi, passionate about Machine Learning, Data Science, and Finance. I love working with mathematics and algorithms and enjoy solving complex problems using data-driven approaches.<br><br>I have experience in Python, Java, SQL, and frameworks like PyTorch and Sklearn. I’ve worked on various ML projects, including Kaggle competitions and know Transformers and Neural Networks.<br><br>Beyond academics, I enjoy playing the guitar and flute, participating in cultural events, and following sports. Always eager to learn and collaborate, I’m excited about opportunities in AI, finance and tech-driven innovations!<br><br>
 
 
 ## 🌐 Socials:
